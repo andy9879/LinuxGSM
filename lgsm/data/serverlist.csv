@@ -1,4 +1,5 @@
 shortname,gameservername,gamename,os
+batbit,batbitserver,Battle Bit,ubuntu-22.04
 ac,acserver,Assetto Corsa,ubuntu-22.04
 ahl,ahlserver,Action Half-Life,ubuntu-22.04
 ahl2,ahl2server,Action: Source,ubuntu-20.04
